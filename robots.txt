@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nzuguy.github.io/Ect/sitemap.Ect.gz
